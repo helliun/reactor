@@ -1,0 +1,9 @@
+Here's what I did:
+
+1. Write a function that sets up the necessary directories and files for a basic html+REACT.js site.
+2. Write a function that takes in a string representing the name of the site and dynamically updates the necessary files to include this name.
+3. Write a function that takes in a list of strings representing css file names and dynamically updates the necessary files to include links to these files.
+4. Write a function that takes in a list of strings representing javascript file names and dynamically updates the necessary files to include links to these files.
+5. Write a function that takes in a dictionary representing the page structure (i.e. a dictionary with keys as page names and values as page contents in html) and dynamically updates the necessary files to create these pages.
+6. Write a function that takes in a list of strings representing the REACT.js components used in the site and dynamically updates the necessary files to include these components.
+7. Write a function that takes in a list of strings representing the REACT.js libraries used in the site and dynamically updates the necessary files to include links to these libraries.
